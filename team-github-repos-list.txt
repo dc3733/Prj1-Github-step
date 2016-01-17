@@ -1,2 +1,2 @@
-Demetri Clark & Adem 
-///
+Put your team member names
+And github repo URL
